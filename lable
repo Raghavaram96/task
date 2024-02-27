@@ -1,0 +1,20 @@
+
+ <label >Email</label>   
+ <input  placeholder="Email"><br><br>
+ <label >Mobile number</label>  
+ <input placeholder="Mobile number"><br><br>
+ <label  >DOB</label>  
+ <input type="date" placeholder="dd-mm-yyyy"><br><br>
+ <label >GENDER</label> 
+ <input type="radio" name="gender" id="gender">
+ <label for="gender">male</label>
+ <input type="radio" name="gender" id="gender">
+ <label for="gender">female</label> <br> <br>
+ <label>address</label>
+ <textarea cols="10" rows="10" placeholder="enterfull address"></textarea> <br><br>
+  <button type="button">submit</button>
+
+</fieldset>
+
+</body>
+</html>
